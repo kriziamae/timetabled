@@ -19,3 +19,18 @@ td {
 .time {
   height: 40px;
 }
+
+.green{
+  background-color: lightgreen;
+  outline: 1px black solid;
+}
+
+.pink{
+  background-color: lightpink;
+    outline: 1px black solid;
+}
+
+.blue{
+  background-color: lightblue;
+    outline: 1px black solid;
+}
